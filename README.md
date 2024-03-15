@@ -1,4 +1,4 @@
-# property_management
+# Lottery App
 
 A new Flutter project.
 
